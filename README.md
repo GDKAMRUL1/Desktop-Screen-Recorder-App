@@ -20,17 +20,6 @@ A Python-based desktop screen recorder with a GUI built using PyQt5.
 
 
 
-   Step 1: Install PyInstaller
-Install PyInstaller via pip:
-
-```bash
-pip install pyinstaller
-
-
-Run the following PyInstaller command:
-```bash
-pyinstaller --onefile screen_recorder.py
-
    
 ![Screen Recorder App, kamrulmollah com](https://github.com/user-attachments/assets/b80b3440-c01e-498f-985f-4339fb5a0227)
 
